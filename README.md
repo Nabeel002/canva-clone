@@ -1,8 +1,25 @@
-# React + Vite
+<h1>Canva Clone</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>A simple yet functional clone of Canva, designed to allow users to draw, add shapes, and insert text on a canvas.</p>
 
-Currently, two official plugins are available:
+<h2>Features</h2>
+<ul>
+  <li><strong>Drawing Tool:</strong> Users can draw freely on the canvas.</li>
+  <li><strong>Shape Addition:</strong> Easily add basic shapes like rectangles, circles to the canvas.</li>
+  <li><strong>Text Functionality:</strong> Insert text boxes in the center of the canvas, edit text, and drag text boxes as needed.</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Technologies Used</h2>
+<ul>
+  <li>React</li>
+  <li>HTML5 Canvas API</li>
+</ul>
+
+<h2>Setup</h2>
+<pre><code>git clone https://github.com/yourusername/canva-clone.git
+cd canva-clone
+npm install
+npm start
+</code></pre>
+
+
